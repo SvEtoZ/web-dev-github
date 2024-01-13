@@ -1,0 +1,4 @@
+This is my commit
+
+git config --global user.name "Svetozar Zejak"
+git config --global user.email "svetozarzejak1@gmail.com"
